@@ -1,9 +1,10 @@
-# cpp-binary-search-tree
+# Binary Search Tree
 
-What does it do:
+## What does it do?
+
 It will take an input of numbers and output a nicely formatted binary search tree.
 
-Steps:
+## Steps to use:
 1. Compile the C++ file
 2. Run the executable
 3. Enter the numbers separated by whitespaces when prompted
